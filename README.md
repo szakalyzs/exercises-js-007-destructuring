@@ -1,0 +1,1 @@
+# exercises-js-007-destructuring
